@@ -1,0 +1,1 @@
+This is a simple project to create an S3 bucket using terraform
